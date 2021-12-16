@@ -1,0 +1,26 @@
+“Como você apresentaria a cidade de Irati ou a
+cidade em que reside ao mundo através da web?”
+
+
+Para responder a esta pergunta elabore um site sobre a cidade.
+
+1. O conteúdo HTML deve conter:
+	a. principal (index.html) na pasta principal, que deve linkar a outros conteúdos em páginas internas (mínimo 4).
+	b. Páginas internas devem possuir um link para retornar à página inicial (home do site).
+	c. Títulos devidamente nivelados
+	d. Parágrafos
+	e. Imagens ilustrando os conteúdos
+	f. Inserção de 4 vídeos
+	g. Inserção de áudio
+	h. Tabela
+	i. Uso de tags de endereço
+	j. Uso de tags de rodapé
+	k. Uso de tags de citação
+	l. Uso de tags div e span
+
+2. Usando CSS altere os estilos:
+	a. Fontes e cores de fontes
+	b. cores de fundo
+	c. Utilize classes
+	d. ID
+	e. Pseudo-Classes
